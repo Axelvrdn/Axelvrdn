@@ -1,31 +1,39 @@
-# 💫 About Me:
-Actuellement en alternance chez Worldline<br>En collaboration sur un projet scolaire : un site de réservation de traversées<br>Principalement sur du développement en PHP<br>Compétences développées : JavaScript, PHP, C#, MySQL
+<h1 align="center">AXEL VERDON</h1>
 
+<p align="center"><strong>Building useful digital products, from idea to shipping.</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axel_vrdn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Axel Verdon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axel.v3rd0n@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Axelvrdn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Axelvrdn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelvrdn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Axelvrdn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Axelvrdn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:axel.v3rd0n@gmail.com">Email</a> ·
+  <a href="https://axel-verdon.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/axel-verdon">LinkedIn</a> ·
+  <a href="https://github.com/Axelvrdn">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Axelvrdn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelv3d0n) 
+## What I build
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Full-stack web apps with clean UX and clear architecture
+- iOS mobile experiences in Swift
+- AI-assisted products focused on practical, real-world value
+
+## Current products
+
+- [**Portfolio**](https://github.com/Axelvrdn/Portfolio) - Personal website and product showcase in TypeScript
+- [**NutriChef-AI**](https://github.com/Axelvrdn/NutriChef-AI) - AI-powered nutrition assistant
+- [**iOS_Sport**](https://github.com/Axelvrdn/iOS_Sport) - Sports-oriented iOS app in Swift
+
+## Core stack
+
+![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white)
+
+## GitHub snapshot
+
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAxelvrdn&query=%24.public_repos&label=Public%20repos&style=flat-square&color=111111)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAxelvrdn&query=%24.followers&label=Followers&style=flat-square&color=111111)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAxelvrdn&query=%24.following&label=Following&style=flat-square&color=111111)
